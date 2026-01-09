@@ -1,4 +1,5 @@
-<h1 align="center">Batik Nitik Generative AI: Multimodal RAG & Image Synthesis</h1>
+<h1 align="center">🎨 Batik Nitik Generative AI</h1>
+<p align="center"><i>Multimodal Retrieval-Augmented Generation & Image Synthesis</i></p>
 
 <p align="center">
   <img src="assets/images/Academic Poster.png" width="70%">
